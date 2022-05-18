@@ -1,0 +1,2 @@
+<?= \Roots\view('partials.comments', $data ?? get_defined_vars())->render(); ?>
+<?php /**PATH /var/www/html/ospinhasDev/wp-content/themes/ospinhas/resources/views/partials/comments.blade.php ENDPATH**/ ?>
